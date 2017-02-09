@@ -1,0 +1,5 @@
+D:\ashwin\bin\Debug\netcoreapp1.0\ashwin.dll
+D:\ashwin\bin\Debug\netcoreapp1.0\ashwin.pdb
+D:\ashwin\obj\Debug\netcoreapp1.0\ashwin.AssemblyInfo.cs
+D:\ashwin\obj\Debug\netcoreapp1.0\ashwin.dll
+D:\ashwin\obj\Debug\netcoreapp1.0\ashwin.pdb
